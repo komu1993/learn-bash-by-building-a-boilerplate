@@ -380,3 +380,6 @@ ls --color=auto
 rename website/ website-boilerplate
 rename website/ website-boilerplate
 mv website/ website-boilerplate
+ls --color=auto
+find
+ls --color=auto
