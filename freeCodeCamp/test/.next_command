@@ -162,3 +162,4 @@ mv roboto.woff fonts
 cd ..
 mv roboto.woff fonts
 find
+mv lato.ttf fonts
