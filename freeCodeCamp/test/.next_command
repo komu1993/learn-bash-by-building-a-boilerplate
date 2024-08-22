@@ -155,3 +155,9 @@ cp lato.ttf font
 cp roboto.woff font
 mv font fonts
 ls --color=auto
+cd fonts
+ls --color=auto
+cp roboto.woff fonts
+mv roboto.woff fonts
+cd ..
+mv roboto.woff fonts
