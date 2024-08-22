@@ -132,3 +132,4 @@ cd ..
 ls --color=auto
 rm CodeAll.svg
 rm background.jpg
+ls --color=auto
