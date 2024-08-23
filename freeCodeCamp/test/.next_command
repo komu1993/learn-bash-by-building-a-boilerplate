@@ -303,3 +303,7 @@ mkdir client/assets/icons
 ls --color=auto
 mv CodeAlly.svg client/assets/icons/
 find
+ls --color=auto
+mv CodeARoad.svg client/assets/icons/
+ls --color=auto
+mv CodeRoad.svg client/assets/icons/
