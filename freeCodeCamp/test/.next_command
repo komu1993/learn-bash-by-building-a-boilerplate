@@ -377,3 +377,6 @@ echo for the freeCodeCamp bash lessons >> README.md
 more README.md
 cd ..
 ls --color=auto
+rename website/ website-boilerplate
+rename website/ website-boilerplate
+mv website/ website-boilerplate
