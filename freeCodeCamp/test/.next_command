@@ -269,3 +269,5 @@ ls --color=auto
 cd ../../..
 find
 rmdir images/
+ls --color=auto
+rm images/background.jpg
