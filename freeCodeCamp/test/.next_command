@@ -275,3 +275,28 @@ rmdir images
 ls --color=auto
 rmdir images/
 ls --color=auto
+mkdir assets/icons
+ls --color=auto
+cd cl
+cd client/
+ls --color=auto
+mkdir assets/icons
+cd..
+cd ..
+ls --color=auto
+cd client/assets/
+ls --color=auto
+cd icons
+cd ..
+cd..
+cd ..
+cd ..
+cd client/assets/
+ls --color=auto
+mkdir icons
+rmdir icons
+mkdir icons
+rmdir icons
+cd ../../..
+cd website/
+mkdir client/assets/icons
