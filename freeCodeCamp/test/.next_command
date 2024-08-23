@@ -383,3 +383,4 @@ mv website/ website-boilerplate
 ls --color=auto
 find
 ls --color=auto
+cp --help
