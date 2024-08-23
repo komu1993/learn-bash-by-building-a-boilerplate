@@ -244,3 +244,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd website/client/
 mkdir assets
 cd assets/
+mkdir images
