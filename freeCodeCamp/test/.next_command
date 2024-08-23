@@ -268,3 +268,4 @@ cd client/assets/images/
 ls --color=auto
 cd ../../..
 find
+rmdir images/
