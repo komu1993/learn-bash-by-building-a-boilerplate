@@ -255,3 +255,7 @@ ls --color=auto
 ls --color=auto
 cd ..
 ls --color=auto
+find --all
+find -all
+find -name
+find -name images
